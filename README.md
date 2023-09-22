@@ -1,6 +1,6 @@
 # 📚 College Data Structures Repository
 
-Welcome to my repository showcasing various data structures I've been studing in college. This repository is organized into different folders, each dedicated to the implementation of a specific data structure in either C++ or Python.
+Welcome to my repository showcasing various data structures I've been studying in college. This repository is organized into different folders, each dedicated to the implementation of a specific data structure in either C++ or Python.
 
 ## 📑 Table of Contents
 
