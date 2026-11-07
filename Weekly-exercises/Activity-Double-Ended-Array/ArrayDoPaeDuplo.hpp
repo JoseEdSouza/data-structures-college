@@ -47,7 +47,7 @@ class ArrayDoPaeDuplo {
         bool equals(ArrayDoPaeDuplo& other);
 
         void concat(ArrayDoPaeDuplo& other);
-        void printaAPorraToda() {
+        void printAll() {
             for (int i = 0;i < capacity;++i) {
                 std::cout << data[i] << " ";
             }

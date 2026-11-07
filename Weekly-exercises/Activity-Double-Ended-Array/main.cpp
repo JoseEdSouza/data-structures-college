@@ -9,5 +9,5 @@ int main() {
     }
     levi.removeAll(10);
     levi.print();
-    levi.printaAPorraToda();
+    levi.printAll();
 }
