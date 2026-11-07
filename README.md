@@ -18,6 +18,19 @@ Welcome to my repository showcasing various data structures I've been studying i
 - [Binary Tree](/Binary_Tree)
 - [Decision Tree Classifier](/Decision_Tree_Classifier)
 
+## 🗓️ Weekly Exercises and Activities
+
+The [Weekly-exercises](/Weekly-exercises) folder gathers the weekly exercises and activities I did in the Data Structures course back in 2023 (2023.1), in C, C++ and Python:
+
+- [Week 02](/Weekly-exercises/Week-02): sorted array check and roof array
+- [Week 03](/Weekly-exercises/Week-03): sorting algorithms and a secure calculator
+- [Week 04](/Weekly-exercises/Week-04): merge sort and quicksort
+- [Week 05](/Weekly-exercises/Week-05): matrix and sine approximation
+- [Week 08](/Weekly-exercises/Week-08): queue and stack
+- [Week 09](/Weekly-exercises/Week-09): binary tree
+- [Activity: Double-Ended Array](/Weekly-exercises/Activity-Double-Ended-Array)
+- [Activity: Decision Tree Classifier](/Weekly-exercises/Activity-Decision-Tree-Classifier): original development version, in Portuguese
+
 ## 🚧 Project Status
 
 Each data structure's implementation is completed and tested. You can explore the code, learn from it, and use it as a reference for understanding and working with different data structures in both C++ and Python.
